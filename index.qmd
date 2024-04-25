@@ -1,0 +1,20 @@
+---
+title: "R-Ladies 2023-24 Report"
+html:
+    code-fold: true
+author: Danyang Dai
+---
+
+# R-Ladies Melbourne Inc
+
+
+R-Ladies Melbourne is one of the chapters of the worldwide R-Ladies community comprising 234 chapters, 102,594 members, across 66 countries (as of today, [R-Ladies](https://www.meetup.com/en-AU/pro/rladies/)) and the first chapter established in Australia in 2016. In March 2020, R-Ladies Melbourne was incorporated as a not-for-profit organization and we are now also known as R-Ladies Melbourne Inc!
+
+We are proud to have 2,431 members in our local Meetup community and also a growing online community of >2070 followers on Twitter. We are currently the top 7th R-Ladies chapter in terms of membership globally.
+
+# AGM 2023 and handover to new leadership for 2023-2024
+
+We had our virtual annual general meeting in April 2023 and selected the following new leadership members:
+
+- Danyang Dai: President 
+- 
