@@ -16,5 +16,112 @@ We are proud to have 2,431 members in our local Meetup community and also a grow
 
 We had our virtual annual general meeting in April 2023 and selected the following new leadership members:
 
-- Danyang Dai: President 
-- 
+- President: Danyang Dai
+- Vice-president: Dionne Argyropoulos
+- Secretary: Sehrish Kanwal
+- Treasurer: Kathleen Zeglinski
+
+![2022-2023 members](images/2023.jpeg)
+
+
+Big thanks to all of our committee members! 
+
+We had to say goodbye to a few of our committee members who have been with us for the past many years including Anna and Nikki. A big thanks to Evie who continue to support R-Ladies Melbourne event by being an amazing speakers for the career event. 
+
+# Changes within the committee
+
+It was great to catch up with all the new members in person last year!
+
+![2023-2024 members](images/2023_24.JPG)
+
+New members joined us from 2023: Cecillia, Belen and Jayani. 
+
+New members joining us from 2024: Lauren Smith and Göknur Giner.
+
+Huge thanks to Caitlin who continue to support us from Africa! 
+
+
+# New and shiny Slack Channel
+
+Thanks to Kathleen, we have now a Slack-pro account! This allow us to keep all of our past conversion within Slack and not needing to worry about the 30-days limits. 
+
+To further the benefits of Slack Pro account, we have migrate the general R-Ladies Committee members to the pro-Slack workplace. This allow us to have a closer interaction with our committee members. 
+
+Thanks to Kathleen, we have also cleaned up our slack channels. Now with fewer channels, it has improved the efficiency of our communications.
+
+
+# New R-Ladies T-shirts and Mugs coming up!
+
+We are looking forward to have new R-Ladies T-shirts and mugs coming this year! Thanks to Caitlin and Dionne for organizing the designs and pick-up for us. 
+
+# Events highlights
+
+## What's new in the tidyverse in 2023
+
+
+![What's new in the tidyverse in 2023](images/event_1.jpeg)
+
+Our very first joined event with [The Victorian and Tasmanian Branch of the Statistical Society of Australia (SSA Vic & Tas](https://www.statsoc.org.au/Victoria). We had an international speaker [Mine Çetinkaya-Rundel](https://mine-cr.com) from the State. 
+
+
+## Teaching Computers to see scatterplots with Scagnostics 
+
+
+![Teaching Computers to see scatterplots with Scagnostics ](images/event_2.jpeg)
+
+We were excited to have [Harriet Mason](https://www.monash.edu/energy-institute/our-people/featured-profiles/ms-harriet-mason) present her research in Scagnostics!
+
+
+## R-Ladies at Australian Statistical Conference and Australian Conference on Teaching Statistics 2023
+
+![ASC 2023](images/event_3.jpeg)
+
+I was able to be representative for R-Ladies Melbourne at ASC 2023. We were there alongside with R-Ladies Canberra and we got to chat with R-Ladies Sydney. This is the first time R-Ladies Melbourne hosting a stall at conferences. 
+
+
+## Career panel discussion 
+
+
+![Career Panel](images/event_4.jpeg)
+
+
+We are very lucky to have five amazing mentors across both academic and industry to be our panelist for the career discussion. 
+
+
+![Career Panel](images/event_4_1.jpeg)
+
+
+We had a great turn out for the first event of the year! 
+
+
+## It takes a spark 
+
+Thank you Dionne, Caitlin and Lauren for presenting us at It takes a Spark!
+
+This is the second year that R-ladies Melbourne presented at It takes a Spark! We were invited to go back to it this year too! 
+
+
+
+# The branding change initiative for R-Ladies 
+
+In the past few years, I had friends that identified themselves as gender minorities but didn't want to get involved with R-Ladies Melbourne due to our name and branding. Evie had sent an email to the R-Ladies global to raise this issue. Finally this year, R-Ladies Global has opened the discussion around changing the brand to something that is more inclusive. This initiative can be found at: [https://github.com/rladies/community/issues/10](https://github.com/rladies/community/issues/10)
+
+We are looking forward for a more inclusive name!
+
+
+# Note from Daidai 
+
+It has been a challenging year since we had few personnel changes. I thought that there wasn't much happening in the past year. However, when I was drafting this report, I realized the amount of work we have been doing and a lot of new and positive changes happened in the past year. i.e. our new slack channels and incoming new T-shirts! I am grateful to have all the supports from you from Brisbane and I had fun working with you all! I am looking forward for another amazing year at R-Ladies Melbourne.
+
+# Sponsors
+
+A great thanks to all of our supportive sponsors especially WEHI. 
+
+![Sponsors](images/download.png)
+![WEHI](images/WEHI_logo_2016_0.png)
+
+
+
+# Acknowledgements
+
+I would like to thank all the past and present committee members for their support and friendship.
