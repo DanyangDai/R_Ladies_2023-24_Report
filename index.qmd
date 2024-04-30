@@ -100,7 +100,11 @@ Thank you Dionne, Caitlin and Lauren for presenting us at It takes a Spark!
 
 This is the second year that R-ladies Melbourne presented at It takes a Spark! We were invited to go back to it this year too! 
 
+![It takes a Spark](images/event_5.jpg)
 
+![It takes a Spark](images/event_5_1.jpeg)
+
+Find the materials at [https://github.com/R-LadiesMelbourne/17-11-23-ItTakesASpark](https://github.com/R-LadiesMelbourne/17-11-23-ItTakesASpark)
 
 # The branding change initiative for R-Ladies 
 
